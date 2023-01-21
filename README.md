@@ -1,3 +1,4 @@
+[kubernetes-cluster.odt](https://github.com/sindhujaalladi/springboot-k8s-cluster-yaml/files/10473345/kubernetes-cluster.odt)
 # springboot-k8s-cluster-yaml
 
 
