@@ -1,4 +1,8 @@
 [kubernetes-cluster.odt](https://github.com/sindhujaalladi/springboot-k8s-cluster-yaml/files/10473345/kubernetes-cluster.odt)
+
+
+springboot application deployed in kubernetes cluster using yaml configuraions
+
 # springboot-k8s-cluster-yaml
 
 
